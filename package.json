@@ -1,0 +1,23 @@
+{
+  "name": "jest_fs_node_module_mock",
+  "version": "1.0.0",
+  "description": "Mocking fs node-module with Jest",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/franjmr/jest_fs_node_module_mock.git"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "franjmr",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^24.9.0",
+    "@types/node": "^13.1.7",
+    "file-system": "^2.2.2",
+    "jest": "^24.9.0",
+    "ts-jest": "^24.3.0",
+    "typescript": "^3.7.4"
+  }
+}
