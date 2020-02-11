@@ -21,4 +21,4 @@ The purpose of these examples is to show:
 npm install
 
 ### Execute Test
-npm run tests
+npm run test
